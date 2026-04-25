@@ -1,10 +1,10 @@
-CS 370 Reflection
+# CS-370 Portfolio
 
 This repository presents the pirate intelligent agent project completed in CS 370, with a focus on reinforcement learning, neural networks, and applied problem solving.
 
 ## Reflection
 
-The project required the development of an intelligent pirate agent capable of navigating a maze and reaching the treasure through deep Q-learning. The starter code provided the maze environment, the `TreasureMaze` class, and the `GameExperience` class used for experience replay. My work centered on completing the `qtrain()` function, including the training loop, action-selection logic, epsilon-greedy exploration strategy, experience replay, target model updates, and performance evaluation. Through repeated training, the agent learned to improve its decisions over time and successfully reached the treasure through learned navigation rather than manually programmed movement.
+The project required the development of an intelligent pirate agent capable of navigating a maze and reaching the treasure through deep Q-learning. The starter code provided the maze environment, the `TreasureMaze` class, and the `GameExperience` class used for experience replay. Work centered on completing the `qtrain()` function, including the training loop, action-selection logic, epsilon-greedy exploration strategy, experience replay, target model updates, and performance evaluation. Through repeated training, the agent learned to improve its decisions over time and successfully reached the treasure through learned navigation rather than manually programmed movement.
 
 Computer scientists design solutions that help systems process information, solve problems, and make decisions with accuracy and efficiency. This work matters because computer science supports technologies used in artificial intelligence, cybersecurity, healthcare, finance, education, robotics, and many other areas of daily life. In this project, reinforcement learning showed how a system can learn from experience, adjust its behavior, and improve performance through feedback from its environment.
 
